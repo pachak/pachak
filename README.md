@@ -54,7 +54,7 @@ I am **PA CHAK**, a Fine Arts Practitioner and Innovator. I invite you to **Disp
 
 ---
 ### 🌐 Connect with the Sandbox
-- **Blog:** [neohumansandbox.wordpress.blog](https://neohumansandbox.wordpress.blog)
+- **Blog:** [neohumansandbox.wordpress.blog](https://neohumansandbox.wordpress.com)
 - **Manifesto:** [GitHub/pachak](https://github.com)
 
 # The Neo-Human Sandbox (NHS)
